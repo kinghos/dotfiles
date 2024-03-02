@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "window.titleBarStyle": "custom",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "files.autoSave": "afterDelay"
+}
