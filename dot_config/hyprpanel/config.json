@@ -460,5 +460,7 @@
   "notifications.timeout": 3000,
   "notifications.ignore": [
     "Spotify"
-  ]
+  ],
+  "menus.transition": "crossfade",
+  "theme.bar.menus.enableShadow": false
 }
